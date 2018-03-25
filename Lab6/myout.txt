@@ -1,0 +1,11 @@
+good morning and I'm a good student!
+good morning and I'm a good student!
+good morning and I'm a good student!
+good morning and I'm a good student!
+
+
+Occurrence array obtained from device:
+   0   0   0   0   1   0   0   0   0   0   0   0   1   0   0   0   1   0   0   0   1   0   1   0   0   0   0   1   0   0   0   0   0   0   0   0   1   1   0   0
+   0   0   0   0   1   0   0   0   0   0   0   0   1   0   0   0   1   0   0   0   1   0   1   0   0   0   0   1   0   0   0   0   0   0   0   0   1   1   1   1
+   0   0   0   0   1   0   0   0   0   0   0   0   1   0   0   0   1   0   0   0   1   0   1   0   0   0   0   1   0   0   0   0   0   0   0   0   1   1   1   1
+   0   0   0   0   1   0   0   0   0   0   0   0   1   0   0   0   1   0   0   0   1   0   1   0   0   0   0   1   0   0   0   0   0   0   0   0   1   1   1   1

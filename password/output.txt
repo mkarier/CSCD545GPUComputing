@@ -1,0 +1,10 @@
+The First String: $1$6gMKIopE$I.zkP2EvrXHDmApzYoV.B.
+The Second string: $1$pkMKIcvE$WQfqzTNmcQr7fqsNq7K2p0
+The Third String: $1$0lMKIuvE$7mOnlu6RZ/cUFRBidK7PK.
+It was able to find the third code. give
+It was able to find the first code. happ
+It was able to find the second code. thnk
+it is outside the for loops
+first Password: hap
+second password: thn
+third password: giv
